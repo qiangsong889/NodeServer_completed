@@ -13,3 +13,5 @@ open another terminal tap and cd into server
 -npm install
 
 -npm run start
+
+server now is listening on port 4000
