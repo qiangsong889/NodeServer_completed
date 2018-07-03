@@ -7,3 +7,9 @@ open terminal do
 -npm install
 
 -npm run dev
+
+open another terminal tap and cd into server 
+
+-npm install
+
+-npm run start
